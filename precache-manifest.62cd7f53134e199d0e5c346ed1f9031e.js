@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe45f7fcef5a6bce420e89bf856a9c47",
+    "revision": "e52c5fd28650df04741d1d4ccbdebe71",
     "url": "/Beenes129.github.io/myOfficialWebsite/index.html"
   },
   {
-    "revision": "dcfcbfbef22e2ea63220",
-    "url": "/Beenes129.github.io/myOfficialWebsite/static/css/main.06933619.chunk.css"
+    "revision": "e0a190f05fcdf921084a",
+    "url": "/Beenes129.github.io/myOfficialWebsite/static/css/main.5696cdab.chunk.css"
   },
   {
     "revision": "4aadae2f8179c5cb0651",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Beenes129.github.io/myOfficialWebsite/static/js/2.84c91f87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dcfcbfbef22e2ea63220",
+    "revision": "e0a190f05fcdf921084a",
     "url": "/Beenes129.github.io/myOfficialWebsite/static/js/main.9ffc3431.chunk.js"
   },
   {

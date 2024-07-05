@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Beenes129.github.io/myOfficialWebsite/static/css/main.06933619.chunk.css",
+    "main.css": "/Beenes129.github.io/myOfficialWebsite/static/css/main.5696cdab.chunk.css",
     "main.js": "/Beenes129.github.io/myOfficialWebsite/static/js/main.9ffc3431.chunk.js",
     "main.js.map": "/Beenes129.github.io/myOfficialWebsite/static/js/main.9ffc3431.chunk.js.map",
     "runtime-main.js": "/Beenes129.github.io/myOfficialWebsite/static/js/runtime-main.63f2b884.js",
@@ -8,9 +8,9 @@
     "static/js/2.84c91f87.chunk.js": "/Beenes129.github.io/myOfficialWebsite/static/js/2.84c91f87.chunk.js",
     "static/js/2.84c91f87.chunk.js.map": "/Beenes129.github.io/myOfficialWebsite/static/js/2.84c91f87.chunk.js.map",
     "index.html": "/Beenes129.github.io/myOfficialWebsite/index.html",
-    "precache-manifest.23a9f0691389094cfaf5304edfcef720.js": "/Beenes129.github.io/myOfficialWebsite/precache-manifest.23a9f0691389094cfaf5304edfcef720.js",
+    "precache-manifest.62cd7f53134e199d0e5c346ed1f9031e.js": "/Beenes129.github.io/myOfficialWebsite/precache-manifest.62cd7f53134e199d0e5c346ed1f9031e.js",
     "service-worker.js": "/Beenes129.github.io/myOfficialWebsite/service-worker.js",
-    "static/css/main.06933619.chunk.css.map": "/Beenes129.github.io/myOfficialWebsite/static/css/main.06933619.chunk.css.map",
+    "static/css/main.5696cdab.chunk.css.map": "/Beenes129.github.io/myOfficialWebsite/static/css/main.5696cdab.chunk.css.map",
     "static/js/2.84c91f87.chunk.js.LICENSE.txt": "/Beenes129.github.io/myOfficialWebsite/static/js/2.84c91f87.chunk.js.LICENSE.txt",
     "static/media/AllenBeenelogo.png": "/Beenes129.github.io/myOfficialWebsite/static/media/AllenBeenelogo.70d4ad7a.png",
     "static/media/index.css": "/Beenes129.github.io/myOfficialWebsite/static/media/PAPYRUS.ffc718cd.TTF",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.63f2b884.js",
     "static/js/2.84c91f87.chunk.js",
-    "static/css/main.06933619.chunk.css",
+    "static/css/main.5696cdab.chunk.css",
     "static/js/main.9ffc3431.chunk.js"
   ]
 }
