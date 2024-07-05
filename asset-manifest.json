@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.2300d1c0.chunk.css",
-    "main.js": "/static/js/main.0b49c483.chunk.js",
-    "main.js.map": "/static/js/main.0b49c483.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4600570b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4600570b.js.map",
-    "static/js/2.84c91f87.chunk.js": "/static/js/2.84c91f87.chunk.js",
-    "static/js/2.84c91f87.chunk.js.map": "/static/js/2.84c91f87.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e826893607a960f8f42cdd065254025d.js": "/precache-manifest.e826893607a960f8f42cdd065254025d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2300d1c0.chunk.css.map": "/static/css/main.2300d1c0.chunk.css.map",
-    "static/js/2.84c91f87.chunk.js.LICENSE.txt": "/static/js/2.84c91f87.chunk.js.LICENSE.txt",
-    "static/media/AllenBeenelogo.png": "/static/media/AllenBeenelogo.70d4ad7a.png",
-    "static/media/index.css": "/static/media/PAPYRUS.ffc718cd.TTF",
-    "static/media/calculator.jpg": "/static/media/calculator.a19f2b67.jpg",
-    "static/media/cover-image.png": "/static/media/cover-image.ccf87808.png",
-    "static/media/led-wall.jpg": "/static/media/led-wall.653c2b3d.jpg",
-    "static/media/pastel-puzzels.jpg": "/static/media/pastel-puzzels.ed494730.jpg",
-    "static/media/run-buddy.jpg": "/static/media/run-buddy.938f8fe0.jpg",
-    "static/media/surf-report.jpg": "/static/media/surf-report.12557c9b.jpg"
+    "main.css": "/myOfficialWebsite/static/css/main.41a97002.chunk.css",
+    "main.js": "/myOfficialWebsite/static/js/main.5499eb88.chunk.js",
+    "main.js.map": "/myOfficialWebsite/static/js/main.5499eb88.chunk.js.map",
+    "runtime-main.js": "/myOfficialWebsite/static/js/runtime-main.7cca19ed.js",
+    "runtime-main.js.map": "/myOfficialWebsite/static/js/runtime-main.7cca19ed.js.map",
+    "static/js/2.84c91f87.chunk.js": "/myOfficialWebsite/static/js/2.84c91f87.chunk.js",
+    "static/js/2.84c91f87.chunk.js.map": "/myOfficialWebsite/static/js/2.84c91f87.chunk.js.map",
+    "index.html": "/myOfficialWebsite/index.html",
+    "precache-manifest.b6b22a204b059b11f2d592c1e734ce6e.js": "/myOfficialWebsite/precache-manifest.b6b22a204b059b11f2d592c1e734ce6e.js",
+    "service-worker.js": "/myOfficialWebsite/service-worker.js",
+    "static/css/main.41a97002.chunk.css.map": "/myOfficialWebsite/static/css/main.41a97002.chunk.css.map",
+    "static/js/2.84c91f87.chunk.js.LICENSE.txt": "/myOfficialWebsite/static/js/2.84c91f87.chunk.js.LICENSE.txt",
+    "static/media/AllenBeenelogo.png": "/myOfficialWebsite/static/media/AllenBeenelogo.70d4ad7a.png",
+    "static/media/index.css": "/myOfficialWebsite/static/media/PAPYRUS.ffc718cd.TTF",
+    "static/media/calculator.jpg": "/myOfficialWebsite/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.png": "/myOfficialWebsite/static/media/cover-image.ccf87808.png",
+    "static/media/led-wall.jpg": "/myOfficialWebsite/static/media/led-wall.653c2b3d.jpg",
+    "static/media/pastel-puzzels.jpg": "/myOfficialWebsite/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/run-buddy.jpg": "/myOfficialWebsite/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/myOfficialWebsite/static/media/surf-report.12557c9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4600570b.js",
+    "static/js/runtime-main.7cca19ed.js",
     "static/js/2.84c91f87.chunk.js",
-    "static/css/main.2300d1c0.chunk.css",
-    "static/js/main.0b49c483.chunk.js"
+    "static/css/main.41a97002.chunk.css",
+    "static/js/main.5499eb88.chunk.js"
   ]
 }
