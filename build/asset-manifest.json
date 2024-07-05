@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Beenes129.github.io/myOfficialWebsite/static/css/main.5696cdab.chunk.css",
+    "main.js": "/Beenes129.github.io/myOfficialWebsite/static/js/main.9ffc3431.chunk.js",
+    "main.js.map": "/Beenes129.github.io/myOfficialWebsite/static/js/main.9ffc3431.chunk.js.map",
+    "runtime-main.js": "/Beenes129.github.io/myOfficialWebsite/static/js/runtime-main.63f2b884.js",
+    "runtime-main.js.map": "/Beenes129.github.io/myOfficialWebsite/static/js/runtime-main.63f2b884.js.map",
+    "static/js/2.84c91f87.chunk.js": "/Beenes129.github.io/myOfficialWebsite/static/js/2.84c91f87.chunk.js",
+    "static/js/2.84c91f87.chunk.js.map": "/Beenes129.github.io/myOfficialWebsite/static/js/2.84c91f87.chunk.js.map",
+    "index.html": "/Beenes129.github.io/myOfficialWebsite/index.html",
+    "precache-manifest.62cd7f53134e199d0e5c346ed1f9031e.js": "/Beenes129.github.io/myOfficialWebsite/precache-manifest.62cd7f53134e199d0e5c346ed1f9031e.js",
+    "service-worker.js": "/Beenes129.github.io/myOfficialWebsite/service-worker.js",
+    "static/css/main.5696cdab.chunk.css.map": "/Beenes129.github.io/myOfficialWebsite/static/css/main.5696cdab.chunk.css.map",
+    "static/js/2.84c91f87.chunk.js.LICENSE.txt": "/Beenes129.github.io/myOfficialWebsite/static/js/2.84c91f87.chunk.js.LICENSE.txt",
+    "static/media/AllenBeenelogo.png": "/Beenes129.github.io/myOfficialWebsite/static/media/AllenBeenelogo.70d4ad7a.png",
+    "static/media/index.css": "/Beenes129.github.io/myOfficialWebsite/static/media/PAPYRUS.ffc718cd.TTF",
+    "static/media/calculator.jpg": "/Beenes129.github.io/myOfficialWebsite/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.png": "/Beenes129.github.io/myOfficialWebsite/static/media/cover-image.ccf87808.png",
+    "static/media/led-wall.jpg": "/Beenes129.github.io/myOfficialWebsite/static/media/led-wall.653c2b3d.jpg",
+    "static/media/pastel-puzzels.jpg": "/Beenes129.github.io/myOfficialWebsite/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/run-buddy.jpg": "/Beenes129.github.io/myOfficialWebsite/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/Beenes129.github.io/myOfficialWebsite/static/media/surf-report.12557c9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63f2b884.js",
+    "static/js/2.84c91f87.chunk.js",
+    "static/css/main.5696cdab.chunk.css",
+    "static/js/main.9ffc3431.chunk.js"
+  ]
+}
